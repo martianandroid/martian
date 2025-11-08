@@ -4,3 +4,8 @@
 #node modules
 **/node_modules/
 
+#python venv
+**/venv/
+
+
+
