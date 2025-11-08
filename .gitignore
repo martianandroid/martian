@@ -1,0 +1,6 @@
+#vscode workspace
+*.code-workspace 
+
+#node modules
+**/node_modules/
+
